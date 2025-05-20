@@ -1,0 +1,7 @@
+## 1/25/2017
+
+My initial days have been quite an experience. Arriving late on the first day, I spent the night stealth camping and enjoyed sleeping in my hammock beneath the stars. Despite waking to drizzle at 4 AM and moving to sleep in the driver's seat, I had a satisfying night's rest.
+
+The second day started positively with a morning hike organized through Meetup, where I connected with some wonderful local people, including Richard, Monica, Jan, and Julie, among others whose names I don't recall. I also met Gil at a coffee shop earlier. Later, while calling Ethan at Wendy's, I met Sam, another fellow traveler. We shared stories over tea and had a great conversation.
+
+My plan for tomorrow involves finding a suitable parking spot to organize my car, which will be a significant task. Following that, I intend to print a message and visit various restaurants and food establishments strategically. Before doing so, I want to freshen up and change into clean clothes, utilizing baby wipes and a spare set I have. Later in the day, there's a Standing Rock event that I'm interested in attending to connect with individuals who support Native Solidarity. I'm really enjoying it here. Ethan is considering a fresh start and plans to join me in a few months. We're looking forward to renting a place together, which I think will be wonderful, and I especially can't wait to cook with him regularly.

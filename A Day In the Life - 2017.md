@@ -1,0 +1,15 @@
+## July 2017 - A Day in the Life
+
+Since moving to Asheville, my typical day begins with waking up in my vehicle, where I sleep comfortably in a church parking lot or similar quiet spot. The fresh air and my simple bedding—a foam pad with blankets and sleeping bags—bring relief to my sinuses and back. After a period of peaceful reflection, a walk, or gentle morning interactions, I head to a local free meal. If I'm able and there's a need, I gladly help out, though I appreciate Haywood St Congregation's approach where those assisting are considered companions, not just volunteers.
+
+  
+
+While volunteerism is undoubtedly needed at these meals, I strongly believe in the importance of equality among everyone. This concept, often called solidarity over charity, is vital. Alongside volunteering, we must address the significant gap between the perceived 'poor and rich,' the 'haves and have nots,' and the misconception that these resources are only for the extremely needy. If you have the time and ability to attend a free meal, build connections, and contribute what you can, it can be a transformative experience. We are stronger when we eat together, breaking down barriers and fostering peace and equity. Everyone present, including yourself, is worth so much more than their current circumstances.
+
+  
+
+My decision to live in my vehicle was partly a choice and partly a necessity. I hold a Bachelor's in Psychology, but my college years led to significant health issues that defy simple medical or psychiatric labels. I experienced reactions to environmental toxins, stress-induced back and neck pain, and immune and thyroid problems. Meaningful service to a higher cause has become my medicine. So has ample sleep in the fresh air, long walks, and involvement in grassroots political movements. Living in Maryland, my family's home state, became detrimental to my health, particularly during the last election cycle. The intense environment near DC during the recent Inauguration led to a breaking point. I packed my car and left. While I had experienced marginal homelessness before, the lack of a meaningful outlet for service worsened my suffering.
+
+  
+
+I came to Asheville because I heard it was a welcoming place for vehicle dwellers. I longed to be near the mountains again, where I could access fresh spring water and find peace in the rainforest. I also felt a sense of historical safety here, as if my kind were once persecuted elsewhere. I am interested in the progressive programs here that support vulnerable populations, especially those involved in food recovery. I feel as though I've been adopted into a rapidly gentrifying community, and I want to express my gratitude through service. This is just a small part of my story, and I find great value in listening to the stories of others at these meals. Their experiences enrich my life, and in that way, I feel incredibly wealthy, even though I don't have much money. I struggle with the idea of earning or accepting twenty dollars.

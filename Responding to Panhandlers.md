@@ -1,0 +1,23 @@
+## Responding to Panhandlers
+
+When someone on the street approaches you with a detailed story and asks for money, how do you react? What have your past responses been? Do you walk away, listen, or offer a small amount of money?
+
+Recently, a man approached me as I parked. He claimed to need four dollars for food, stating he was unemployed and struggling to feed himself and his dog.
+
+As someone who lives out of my vehicle and relies on free meals, I'm not far removed from this man's situation. I actively volunteer and eat at free meal programs and participate in homeless advocacy in a progressive city known for its support of the homeless population on the East Coast. Here’s how I responded:
+
+“I cannot give you cash today, but I can use my food stamp card to buy you some food.”
+
+He immediately gave a reason why that wouldn’t work, explaining he needed dog food. I then told him about a place that gives away free dog food the following morning. He countered with another excuse, stating he needed both dog food and food for himself and insisted on the four dollars. I reiterated that I couldn’t give cash but offered him half of a takeout salad and leftover challah bread. He declined.
+
+It’s possible his story was genuine. People face complex circumstances, and perhaps he had a specific idea of what he wanted to buy with four dollars worth of food and was particular about his choices. Alternatively, his story might have been a fabrication to get money for drugs or alcohol, a request he would likely repeat to others. In the context of nonviolent communication, he was very specific about how his need should be met. He might have been embarrassed to reveal his true need, but regardless, he approached me seeking help. I did my best to assist him, and in doing so, I questioned whether the need he expressed was his actual underlying need.
+
+This encounter is not representative of all interactions with people asking for help on the streets. I have had many positive experiences with strangers, both housed and unhoused, who were seeking assistance, sometimes monetary. My aim is to share some of these experiences and offer ideas on how to respond to the homeless, those in need, and panhandlers.
+
+It's crucial to consider the underlying need behind panhandling. There's a significant difference between a need and a preference for how that need is met. If someone states they are hungry, I offer to buy them non-hot food using my EBT card. In one instance, a person gave an elaborate explanation for needing four dollars for food but couldn't provide a reason for refusing EBT assistance. This raised suspicion, as I was offering a way to meet their stated need, but they insisted on the cash. Another time, someone at McDonald's asked me to buy them a burger. Instead, I took them to Walmart, and we bought $10 worth of groceries.
+
+Given my own limited financial resources, I can only offer what I have. If I owned a home or apartment and someone desperately needed respite or hygiene care, I might consider offering a shower, a meal, and a place to sleep for the night. However, I would be selective and want to know the person beyond their panhandling. Any indication of a history of violence, irresponsibility in domestic settings, or drug use would be a deterrent.
+
+I know many local homeless individuals through the free meal programs in the area. I encourage everyone, even those who are not food-insecure, to attend free meals in their community. It's an opportunity to connect with people and challenge the stigma that free meals are solely for the extremely needy. Consider yourself a “rogue gift fairy” when you participate. Engage in conversations, learn people's stories, and look for small ways to bring hope and joy into their lives. When you are living on the street, your needs become very basic – a sandwich or a battery-powered radio, for example. Sometimes, people need shoes, and offering to take them to a thrift store like Goodwill and buying them a pair for $5-$15 can make them feel cared for and have their needs met.
+
+If you know you will be in an urban area where panhandling is common, consider preparing some bagged lunches with sandwiches, snacks, and handwritten motivational notes beforehand. You won’t catch any illness by being kind. If you were in their situation, you would want people to be helpful. If it were someone you loved, you would hope they wouldn’t suffer. If you consider yourself a rebel against the establishment, then care for the homeless and don’t succumb to apathy. If you appreciate this perspective and think I should create a video on this topic, please give it a 'like.'

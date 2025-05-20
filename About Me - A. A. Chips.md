@@ -1,0 +1,9 @@
+Here are some blurbs about me:
++ I'm a terrible cook. Everyone hates my food. I still persevere. Check out food and private chefing content. [[Apple Chip Kitchen]]
++ I am the inventor of Chiptocurrency, the only money that you ~~can~~ should eat as a snack. This also includes [Digital Chips](../publish/content/index.php?action=post&post=chips) like browser cookies, but healthier..
++ I used to be homeless mainly between the time of 2014 and 2019. This looked like walking across America in the beginning, to living between my car and peoples couches, to freaking out on my parent's behavior, and running away with my car seeking refuge to a new city and state. If you want to learn more about why I made that decision, what my life has been like, or about the street advocacy that I do, then I welcome you to follow the links.
++ I advocate for reforms and structural changes in mental health, social work, peer support, housing for all, and our food system. I have a lot of writings on here.
++ I've been going back to school the past three years and learning how to code websites and applications, and have some really cool projects I'd love for you to check out. 
++ I'm not on good terms with my biological family. This project is not about them, but they have played a role in my story and I will talk smack or offer flowers when and if I feel like it on here. If you know me from my former life, or if you are related to me by blood, first off, 'Hello!' Make yourself at home, just respect that I want nothing to do with my parents or sibling. 
++ I regularly throw car batteries into the ocean. Here's a [[Eco-Sattva Vows|bunch of content about sustainability, climate, and walking across America]]. 
++ To learn Spanish the Jewish way click here. Para ambezar Espanyol como Judiya marqe akí.

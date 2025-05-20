@@ -1,0 +1,7 @@
+## June 2017 - My Car’s Journey
+
+My trusty vehicle, nearing the end of its life, holds a collection of essentials: music, camp lights, water, light snacks, shiny rocks, registration, a spiral journal with a few pens, a toiletry bag, a bag of clothes, sleeping bags, and a bed pad.
+
+For the past decade, this car has been an invaluable part of my life, acquired at 15 with Bar Mitzvah money from my dad. It reliably transported me through high school to school and internships, and during college for trips to Ohio and daily commutes. More recently, it served as a secure shelter during various car camping adventures. While its driving days may be numbered, I'm considering cleaning it out and using it for stationary storage. My reliance on a car for numerous needs will undoubtedly make this transition a significant adjustment.A Simpler Existence
+
+Greetings from the riverside! While my van isn't exactly "down by the river," it's certainly close enough. I've traded a high-stress, anxiety-filled existence for a much simpler one, and you can too. Perhaps it's not about van life, but maybe living in a Prius near a church or dedicating yourself to a path of justice. Regardless, I possess the answers to your most challenging questions, offered freely when you join my E-Cult. You might find financial independence or even achieve a six-figure income.

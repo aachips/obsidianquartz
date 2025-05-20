@@ -1,0 +1,9 @@
+I remember my first time cooking. I was 11 and I tried to make rice. Nobody else was home. There were specific instructions. I never read too well.. I added the rice to boiling water. With some butter and salt the rice turned out fine. And I always cooked it that way, and got better and better at my improper cooking.   
+
+At age 24 I remember being chased out of a significant other’s apartment for trying to cook rice the wrong way, at 3 in the morning. I was berated for my incompetence and slept in my vehicle hungry that morning. That kytchyn was a war zone and the center of verbal attacks and control inflicted when I stepped out of place. 
+
+This was not isolated. Just two years before I was kicked out of both my parents houses for composting. I lived mainly out of my car since. I have a peaceful den in there where I’m not disturbed. Only tragedy in the houselessness is being cut off from my lifeblood of qooking.
+
+I ran away to another state after J20. I didn’t fully understand why, but I knew it was a life or death situation. With the distance and a year and a half I came out as trans female fungi. Trans female is easier to convey than calling myself a mushroom. I seek to personify the traits of mushrooms that challenge the powers of growth and drive ecological restoration and remediation, and am more comfortable doing that as female. My sexuality has broadened over the years but has intimately included my foodcraft.
+
+I’ve always used food magick as a means of earning respect from people. Since I came out that has been a tactic of survival. I refuse to die in my twenties or thirties. I refuse to settle for reviled degenerate. I refuse to be destroyed. I make magic happen out of the kytchyn. Regardless of the human love and relationships I will live to experience, nothing will protect and honor me the way food magick does. It’s my lifelong love and I will fight for it.

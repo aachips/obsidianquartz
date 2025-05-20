@@ -1,0 +1,9 @@
+First Ever Fern Fest - June 28, 2019
+
+April will be leading the kitchen operations for the inaugural Fern Fest. Drawing on experience staffing kitchens at several small Asheville-area festivals, her culinary approach emphasizes environmental responsibility and anti-oppression principles. The kitchen welcomes anyone interested in assisting, contributing their skills, collaborating on dishes, or even offering new techniques. However, harassment and inappropriate behavior will not be tolerated to ensure a safe and inclusive environment for everyone. Anyone asked to leave is expected to do so respectfully.
+
+Our kitchen thrives on the generosity of food lovers. Donations of fresh, high-quality ingredients will directly enhance the meals we share. Food donation drop-offs will begin on _____.
+
+Please ensure all potatoes are washed before entering the kitchen and before eating! Let's all help maintain clean communal spaces to prevent illness while camping, as not everyone has the same digestive resilience.
+
+Fern Hollow's journey began in 2013 when a cherished friend planted nearly one hundred saplings, laying the foundation for a future food forest. For over six years, this 5.5-acre plot on the Miller family farm, the vision of Erik and Olive, has served as a vital center for permaculture, rehabilitation, and education. It’s located in a small, rural community facing economic challenges in accessing nutritious food. In 2018, Erik and Olive, the dedicated partners behind Fern Hollow, celebrated their marriage on this land with 170 of their closest loved ones. Recognizing the shared passion for music and farm-fresh food within their community, a group of friends decided to organize a small music festival.
