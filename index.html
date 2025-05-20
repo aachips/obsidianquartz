@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Music Player</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <div class="playlist-info">
+                <h1 id="playlist-title">Loading playlist...</h1>
+                <p id="playlist-description"></p>
+            </div>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search songs...">
+                <button id="search-button"><i class="fas fa-search"></i></button>
+            </div>
+        </header>
+
+        <main class="main-content">
+            <section class="now-playing-container">
+                <div class="now-playing-info">
+                    <div class="album-art-container">
+                        <img id="album-art" src="assets/default-album-art.png" alt="Album Art">
+                        <div class="vinyl-record"></div>
+                    </div>
+                    <div class="track-info">
+                        <h2 id="track-title">Select a track</h2>
+                        <h3 id="track-artist"></h3>
+                        <p id="track-album"></p>
+                        <p id="track-year"></p>
+                        <p id="track-genre"></p>
+                    </div>
+                </div>
+                
+                <div class="player-controls">
+                    <div class="progress-container">
+                        <span id="current-time">0:00</span>
+                        <div class="progress-bar">
+                            <div class="progress"></div>
+                        </div>
+                        <span id="duration">0:00</span>
+                    </div>
+                    
+                    <div class="control-buttons">
+                        <button id="prev-button" class="control-button"><i class="fas fa-step-backward"></i></button>
+                        <button id="play-pause-button" class="control-button play-button"><i class="fas fa-play"></i></button>
+                        <button id="next-button" class="control-button"><i class="fas fa-step-forward"></i></button>
+                        <div class="volume-container">
+                            <button id="volume-button" class="control-button"><i class="fas fa-volume-up"></i></button>
+                            <div class="volume-slider-container">
+                                <input type="range" id="volume-slider" min="0" max="1" step="0.01" value="1">
+                            </div>
+                        </div>
+                        <button id="lyrics-button" class="control-button"><i class="fas fa-align-left"></i></button>
+                    </div>
+                </div>
+            </section>
+
+            <section class="playlist-container">
+                <h2>Playlist</h2>
+                <ul id="playlist" class="playlist-tracks">
+                    <!-- Tracks will be populated here by JavaScript -->
+                </ul>
+            </section>
+
+            <section id="lyrics-container" class="lyrics-container hidden">
+                <div class="lyrics-header">
+                    <h2>Lyrics</h2>
+                    <button id="close-lyrics-button"><i class="fas fa-times"></i></button>
+                </div>
+                <div id="lyrics-content" class="lyrics-content">
+                    <!-- Lyrics will be populated here by JavaScript -->
+                </div>
+            </section>
+        </main>
+
+        <footer class="app-footer">
+            <p>Created with ❤️ | Dynamic Music Player</p>
+        </footer>
+    </div>
+
+    <audio id="audio-player"></audio>
+    
+    <script src="js/player.js"></script>
+</body>
+</html>
